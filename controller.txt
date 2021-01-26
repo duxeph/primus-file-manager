@@ -1,1 +1,0 @@
-{"controls": [{"is_req_checked": 1}, {"is_os_checked": 1}, {"is_info_checked": 1}]}
